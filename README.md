@@ -30,11 +30,29 @@
 
 ---
 
-# 📜 The Protagonist's Profile
 
+### 🧬 Character Profile
+
+```javascript
+const protagonist = {
+    name: "Dhruv Pratap Chaubey",
+    alias: "Rudy0senpai",
+    class: "AI & Data Science Engineer",
+    origin: "India 🇮🇳",
+
+    abilities: [
+        "Python Manipulation",
+        "Data Analysis",
+        "Problem Solving",
+        "World Building",
+        "Creative Thinking"
+    ],
+
+    currentArc: "The Journey to Becoming Legendary",
+    dream: "Build worlds, create intelligence, change reality."
+};
 ```
-const protagonist = {    name: "Dhruv Pratap Chaubey",    alias: "Rudy0senpai",    class: "AI & Data Science Engineer",    origin: "India 🇮🇳",    abilities: [        "Python Manipulation",        "Data Analysis",        "Problem Solving",        "World Building",        "Creative Thinking"    ],    currentArc: "The Journey to Becoming Legendary",    dream: "Build worlds, create intelligence, change reality."};
-```
+
 
 > *"I don't need a cheat skill. I have curiosity, creativity, and an IDE."*
 
@@ -611,22 +629,36 @@ My inner Maomao is ready to investigate the strangest software symptoms.
 
 ---
 
-# 📊 My Power Level — GitHub Stats
 
-<p align="center">  
-<img src="https://github-readme-stats.vercel.app/api?username=rudy0senpai&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" alt="GitHub statistics"/>  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudy0senpai&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Most used programming languages"/>  
+<h2 align="center">📊 My Power Level — GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rudy0senpai&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+       width="450"
+       alt="GitHub statistics"/>
 </p>
 
-<p align="center">  
-<img src="[https://streak-stats.demolab.com?user=rudy0senpai&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com/?user=rudy0senpai&theme=tokyonight&hide_border=true)" alt="GitHub contribution streak"/>  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudy0senpai&layout=compact&theme=tokyonight&hide_border=true"
+       width="450"
+       alt="Most used programming languages"/>
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=rudy0senpai&theme=tokyonight&hide_border=true"
+       width="450"
+       alt="GitHub contribution streak"/>
+</p>
+
 
 ## 🐍 The Contribution Dragon
 
-<p align="center">  
-<img src="https://raw.githubusercontent.com/rudy0senpai/rudy0senpai/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution snake"/>  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rudy0senpai/rudy0senpai/output/github-contribution-grid-snake-dark.svg"
+       alt="Animated GitHub contribution snake"/>
 </p>
+
 
 ---
 
@@ -713,9 +745,64 @@ The bug was not the problem.The bug was the friends we made along the way.
 <i>Until our next adventure... See you in the next episode! ✨</i>  
 </p>
 
-```
-<details><summary>🧋 <b>The Apothecary Diaries — The Mystery Investigation Arc</b></summary><br/><p align="center">  <img src="https://media.tenor.com/4q0z0a5V3wAAAAAC/maomao-apothecary-diaries.gif" width="180" alt="Maomao animated GIF"/></p><h3 align="center">🧪 THE IMPERIAL PALACE INVESTIGATION 🧪</h3><p align="center">  <i>Poison, medicine, mysteries, and one extremely curious apothecary.</i></p><p align="center">  <img src="https://media.tenor.com/5vV4mZ1xWAAAAAAC/maomao-smile.gif" width="130" alt="Maomao smiling"/>  <img src="https://media.tenor.com/6X0sZ8Jw7kAAAAAC/jinshi-apothecary-diaries.gif" width="130" alt="Jinshi"/></p>### 🧬 The Investigation Team<table align="center">  <tr>    <td align="center">      <img src="https://cdn.myanimelist.net/images/characters/3/521665.jpg" width="110" alt="Maomao"/><br/>      <b>🧪 Maomao</b><br/>      Master Detective    </td>    <td align="center">      <img src="https://cdn.myanimelist.net/images/characters/5/521667.jpg" width="110" alt="Jinshi"/><br/>      <b>🌸 Jinshi</b><br/>      Imperial Administrator    </td>    <td align="center">      <img src="https://cdn.myanimelist.net/images/characters/6/521669.jpg" width="110" alt="Gaoshun"/><br/>      <b>🛡️ Gaoshun</b><br/>      Loyal Attendant    </td>  </tr></table>### 🔍 Maomao's Investigation Protocol```text╔════════════════════════════════════════╗║       INVESTIGATION INITIATED       ║╠════════════════════════════════════════╣║ Step 1: Examine the evidence        ║║ Step 2: Identify unusual patterns   ║║ Step 3: Test the hypothesis         ║║ Step 4: Analyze the substance       ║║ Step 5: Reveal the truth            ║╚════════════════════════════════════════╝
-```
+
+<details>
+<summary>🧋 <b>The Apothecary Diaries — The Mystery Investigation Arc</b></summary>
+
+<br/>
+
+<p align="center">
+  <img src="./assets/Apothecary_dairy/maomao.png" width="180" alt="Maomao"/>
+</p>
+
+<h3 align="center">🧪 THE IMPERIAL PALACE INVESTIGATION 🧪</h3>
+
+<p align="center">
+  <i>Poison, medicine, mysteries, and one extremely curious apothecary.</i>
+</p>
+
+<h3 align="center">🧬 The Investigation Team</h3>
+
+<p align="center">
+  <img src="./assets/Apothecary_dairy/maomao.png" width="110" alt="Maomao"/>
+  <br/>
+  <b>🧪 Maomao</b>
+  <br/>
+  Master Detective
+</p>
+
+<p align="center">
+  <img src="./assets/Apothecary_dairy/jinshi.png" width="110" alt="Jinshi"/>
+  <br/>
+  <b>🌸 Jinshi</b>
+  <br/>
+  Imperial Administrator
+</p>
+
+<p align="center">
+  <img src="./assets/Apothecary_dairy/gaoshun.png" width="110" alt="Gaoshun"/>
+  <br/>
+  <b>🛡️ Gaoshun</b>
+  <br/>
+  Loyal Attendant
+</p>
+
+<h3 align="center">🔍 Maomao's Investigation Protocol</h3>
+
+<pre>
+╔════════════════════════════════════════╗
+║       INVESTIGATION INITIATED        ║
+╠════════════════════════════════════════╣
+║ Step 1: Examine the evidence        ║
+║ Step 2: Identify unusual patterns   ║
+║ Step 3: Test the hypothesis         ║
+║ Step 4: Analyze the substance        ║
+║ Step 5: Reveal the truth             ║
+╚════════════════════════════════════════╝
+</pre>
+
+</details>
+
 
 ### 🧠 Character Abilities
 
