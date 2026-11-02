@@ -6,9 +6,11 @@
 
 <h2 align="center">⚡ ルディ先輩 | RUDY0SENPAI ⚡</h2>
 
-<p align="center">  
-<img src="[https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=21&duration=2500&pause=700&color=00E5FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+Anime+Multiverse!;The+Pirate+King+of+Programming+%F0%9F%8F%B4;Dattebayo!+I+will+master+AI+%F0%9F%94%A5;Re%3AZero+bugs+in+my+code...+%F0%9F%98%AD;10+Billion+Percent+Brainpower!+%F0%9F%A7%AA;Gotta+Code+%27Em+All!+%F0%9F%8E%AE;My+Magic+Is+Programming!+%F0%9F%92%BB;The+Shadow+Developer+Has+Arrived...+%F0%9F%8C%91](https://readme-typing-svg.demolab.com/?font=Orbitron&weight=700&size=21&duration=2500&pause=700&color=00E5FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+Anime+Multiverse!;The+Pirate+King+of+Programming+%F0%9F%8F%B4;Dattebayo!+I+will+master+AI+%F0%9F%94%A5;Re%3AZero+bugs+in+my+code...+%F0%9F%98%AD;10+Billion+Percent+Brainpower!+%F0%9F%A7%AA;Gotta+Code+%27Em+All!+%F0%9F%8E%AE;My+Magic+Is+Programming!+%F0%9F%92%BB;The+Shadow+Developer+Has+Arrived...+%F0%9F%8C%91)" alt="Anime-inspired animated typing"/>  
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=21&duration=2500&pause=700&color=00E5FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+Anime+Multiverse!%3BThe+Pirate+King+of+Programming!%3BDattebayo!+I+will+master+AI!%3B10+Billion+Percent+Brainpower!%3BGotta+Code+%27Em+All!%3BMy+Magic+Is+Programming!%3BI+Am+Atomic...+in+Software+Engineering!" alt="Anime Multiverse Typing Animation" />
 </p>
+
 
 <p align="center">  
 <img src="https://img.shields.io/badge/CLASS-Developer-00E5FF?style=for-the-badge"/>  
@@ -30,9 +32,9 @@
 
 # 📜 The Protagonist's Profile
 
-
+```
 const protagonist = {    name: "Dhruv Pratap Chaubey",    alias: "Rudy0senpai",    class: "AI & Data Science Engineer",    origin: "India 🇮🇳",    abilities: [        "Python Manipulation",        "Data Analysis",        "Problem Solving",        "World Building",        "Creative Thinking"    ],    currentArc: "The Journey to Becoming Legendary",    dream: "Build worlds, create intelligence, change reality."};
-
+```
 
 > *"I don't need a cheat skill. I have curiosity, creativity, and an IDE."*
 
