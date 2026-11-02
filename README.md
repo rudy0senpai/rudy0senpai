@@ -533,7 +533,7 @@ Just like Rimuru's Great Sage, I have assembled my own collection of powerful AI
 <br/>
 
 <p align="center">
-  <img src="https://media.tenor.com/4q0z0a5V3wAAAAAC/maomao-apothecary-diaries.gif" width="180" alt="Maomao animated GIF"/>
+  <img src="https://media.tenor.com/4q0z0a5V3wAAAAAC/maomao-apothecary.gif" width="180" alt="Maomao animated GIF"/>
 </p>
 
 <h3 align="center">🧪 THE IMPERIAL PALACE INVESTIGATION 🧪</h3>
@@ -594,7 +594,7 @@ Just like Rimuru's Great Sage, I have assembled my own collection of powerful AI
 | 🔬 Luomen   | Medical Knowledge & Mentorship  |
 
 <p align="center">
-  <img src="https://media.tenor.com/4q0z0a5V3wAAAAAC/maomao-apothecary-diaries.gif" width="250" alt="Maomao GIF"/>
+  <img src="https://media.tenor.com/4q0z0a5V3wAAAAAC/maomao.gif" width="250" alt="Maomao GIF"/>
 </p>
 
 <details>
@@ -748,93 +748,3 @@ The bug was not the problem.The bug was the friends we made along the way.
 <i>Until our next adventure... See you in the next episode! ✨</i>  
 </p>
 
-
-<details>
-<summary>🧋 <b>The Apothecary Diaries — The Mystery Investigation Arc</b></summary>
-
-<br/>
-
-<p align="center">
-  <img src="./assets/Apothecary_dairy/maomao.png" width="180" alt="Maomao"/>
-</p>
-
-<h3 align="center">🧪 THE IMPERIAL PALACE INVESTIGATION 🧪</h3>
-
-<p align="center">
-  <i>Poison, medicine, mysteries, and one extremely curious apothecary.</i>
-</p>
-
-<h3 align="center">🧬 The Investigation Team</h3>
-
-<p align="center">
-  <img src="./assets/Apothecary_dairy/maomao.png" width="110" alt="Maomao"/>
-  <br/>
-  <b>🧪 Maomao</b>
-  <br/>
-  Master Detective
-</p>
-
-<p align="center">
-  <img src="./assets/Apothecary_dairy/jinshi.png" width="110" alt="Jinshi"/>
-  <br/>
-  <b>🌸 Jinshi</b>
-  <br/>
-  Imperial Administrator
-</p>
-
-<p align="center">
-  <img src="./assets/Apothecary_dairy/gaoshun.png" width="110" alt="Gaoshun"/>
-  <br/>
-  <b>🛡️ Gaoshun</b>
-  <br/>
-  Loyal Attendant
-</p>
-
-<h3 align="center">🔍 Maomao's Investigation Protocol</h3>
-
-<pre>
-╔════════════════════════════════════════╗
-║       INVESTIGATION INITIATED        ║
-╠════════════════════════════════════════╣
-║ Step 1: Examine the evidence        ║
-║ Step 2: Identify unusual patterns   ║
-║ Step 3: Test the hypothesis         ║
-║ Step 4: Analyze the substance        ║
-║ Step 5: Reveal the truth             ║
-╚════════════════════════════════════════╝
-</pre>
-
-</details>
-
-
-### 🧠 Character Abilities
-
-| Character  | Special Ability                 |
-| ---------- | ------------------------------- |
-| 🧪 Maomao   | Root Cause Analysis             |
-| 🌸 Jinshi   | Management & Coordination       |
-| 🛡️ Gaoshun  | Monitoring & Protection         |
-| 🍃 Gyokuyou | Diplomacy & Social Intelligence |
-| 🔬 Luomen   | Medical Knowledge & Mentorship  |
-
-<p align="center">  
-<img src="https://media.tenor.com/4q0z0a5V3wAAAAAC/maomao-apothecary-diaries.gif" width="250" alt="Maomao GIF"/>  
-</p>
-
-<details>  
-<summary>🧪 <b>Maomao's Developer Wisdom</b></summary>
-
-<br/>
-
-```
-def investigate_bug(error):    evidence = collect_logs(error)    hypothesis = analyze(evidence)    if hypothesis.is_confirmed():        return resolve_issue(hypothesis)    return "Interesting... further investigation required."
-```
-
-</details>
-
-<p align="center">  
-<b>「 Interesting... this bug requires further investigation. 」</b>  
-</p>
-
-</details>  
-```
