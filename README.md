@@ -33,7 +33,6 @@
 ```
 const protagonist = {    name: "Dhruv Pratap Chaubey",    alias: "Rudy0senpai",    class: "AI & Data Science Engineer",    origin: "India 🇮🇳",    abilities: [        "Python Manipulation",        "Data Analysis",        "Problem Solving",        "World Building",        "Creative Thinking"    ],    currentArc: "The Journey to Becoming Legendary",    dream: "Build worlds, create intelligence, change reality."};
 ```
-
 > *"I don't need a cheat skill. I have curiosity, creativity, and an IDE."*
 
 ---
@@ -41,7 +40,7 @@ const protagonist = {    name: "Dhruv Pratap Chaubey",    alias: "Rudy0senpai", 
 # 🏴‍☠️ My Grand Line — Tech Stack
 
 <p align="center">  
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,react,flask,sqlite,git,github,vscode,linux,unity,blender&perline=5" alt="My programming arsenal"/>  
+<img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css,react,flask,sqlite,git,github,vscode,linux,bash,shell,qt,unity,blender&perline=5" alt="My programming arsenal"/>  
 </p>
 
 <details>  
