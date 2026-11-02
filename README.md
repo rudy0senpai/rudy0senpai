@@ -656,12 +656,10 @@ My inner Maomao is ready to investigate the strangest software symptoms.
 ## 🐍 The Contribution Dragon
 
 
-
 <h2 align="center">🐍 The Contribution Dragon</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rudy0senpai/rudy0senpai/output/github-contribution-grid-snake.svg"
-       alt="Animated GitHub contribution snake"/>
+  <img src="https://raw.githubusercontent.com/rudy0senpai/rudy0senpai/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated GitHub contribution snake"/>
 </p>
 
 
