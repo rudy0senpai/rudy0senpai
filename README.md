@@ -43,7 +43,7 @@ const protagonist = {    name: "Dhruv Pratap Chaubey",    alias: "Rudy0senpai", 
 # 🏴‍☠️ My Grand Line — Tech Stack
 
 <p align="center">  
-<img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css,react,flask,sqlite,git,github,vscode,linux,bash,qt,unity,blender,dex,figma,md&perline=5" alt="My programming arsenal"/>  
+<img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css,react,flask,sqlite,git,github,vscode,linux,bash,qt,unity,blender,figma,md&perline=5" alt="My programming arsenal"/>  
 </p>
 
 <details>  
