@@ -359,51 +359,51 @@ Next transformation: Ultra Instinct Debugging.
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://cdn.myanimelist.net/images/characters/2/314653.jpg" width="100" alt="Kazuma Satou"/><br/>
+      <img src="./assets/isekai_quartet/kazumas.png" width="100" alt="Kazuma Satou"/><br/>
       <b>🗡️ Kazuma</b><br/>
       Resourcefulness
     </td>
     <td align="center">
-      <img src="https://cdn.myanimelist.net/images/characters/8/315037.jpg" width="100" alt="Aqua"/><br/>
+      <img src="./assets/isekai_quartet/aqua.png" width="100" alt="Aqua"/><br/>
       <b>💧 Aqua</b><br/>
       Divine Powers
     </td>
     <td align="center">
-      <img src="https://cdn.myanimelist.net/images/characters/8/315035.jpg" width="100" alt="Megumin"/><br/>
+      <img src="./assets/isekai_quartet/megumin.png" width="100" alt="Megumin"/><br/>
       <b>💥 Megumin</b><br/>
       EXPLOSION!
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://cdn.myanimelist.net/images/characters/13/315022.jpg" width="100" alt="Ainz Ooal Gown"/><br/>
+      <img src="./assets/isekai_quartet/ainz.png" width="100" alt="Ainz Ooal Gown"/><br/>
       <b>💀 Ainz</b><br/>
       Supreme Intelligence
     </td>
     <td align="center">
-      <img src="https://cdn.myanimelist.net/images/characters/9/315042.jpg" width="100" alt="Albedo"/><br/>
+      <img src="./assets/isekai_quartet/albedo.png" width="100" alt="Albedo"/><br/>
       <b>🖤 Albedo</b><br/>
       Absolute Loyalty
     </td>
     <td align="center">
-      <img src="https://cdn.myanimelist.net/images/characters/6/315044.jpg" width="100" alt="Subaru Natsuki"/><br/>
+      <img src="./assets/isekai_quartet/subaru.png" width="100" alt="Subaru Natsuki"/><br/>
       <b>⏳ Subaru</b><br/>
       Return by Death
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://cdn.myanimelist.net/images/characters/9/315046.jpg" width="100" alt="Emilia"/><br/>
+      <img src="./assets/isekai_quartet/emilia.png" width="100" alt="Emilia"/><br/>
       <b>❄️ Emilia</b><br/>
       Ice Magic
     </td>
     <td align="center">
-      <img src="https://cdn.myanimelist.net/images/characters/4/315048.jpg" width="100" alt="Rem"/><br/>
+      <img src="./assets/isekai_quartet/rem.png" width="100" alt="Rem"/><br/>
       <b>💙 Rem</b><br/>
       Combat & Support
     </td>
     <td align="center">
-      <img src="https://cdn.myanimelist.net/images/characters/2/315031.jpg" width="100" alt="Tanya Degurechaff"/><br/>
+      <img src="./assets/isekai_quartet/tanya.png" width="100" alt="Tanya Degurechaff"/><br/>
       <b>✈️ Tanya</b><br/>
       Military Strategy
     </td>
@@ -534,17 +534,17 @@ Just like Rimuru's Great Sage, I have assembled my own collection of powerful AI
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://cdn.myanimelist.net/images/characters/3/521665.jpg" width="110" alt="Maomao"/><br/>
+      <img src="./assets/Apothecary_dairy/maomao.png" width="110" alt="Maomao"/><br/>
       <b>🧪 Maomao</b><br/>
       Master Detective
     </td>
     <td align="center">
-      <img src="https://cdn.myanimelist.net/images/characters/5/521667.jpg" width="110" alt="Jinshi"/><br/>
+      <img src="./assets/Apothecary_dairy/jinshi.png" width="110" alt="Jinshi"/><br/>
       <b>🌸 Jinshi</b><br/>
       Imperial Administrator
     </td>
     <td align="center">
-      <img src="https://cdn.myanimelist.net/images/characters/6/521669.jpg" width="110" alt="Gaoshun"/><br/>
+      <img src="./assets/Apothecary_dairy/gaoshun.png" width="110" alt="Gaoshun"/><br/>
       <b>🛡️ Gaoshun</b><br/>
       Loyal Attendant
     </td>
