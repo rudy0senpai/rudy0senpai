@@ -630,16 +630,17 @@ My inner Maomao is ready to investigate the strangest software symptoms.
 ---
 
 
+
 <h2 align="center">📊 My Power Level — GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rudy0senpai&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+  <img src="https://YOUR-DOMAIN.vercel.app/api?username=rudy0senpai&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
        width="450"
        alt="GitHub statistics"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudy0senpai&layout=compact&theme=tokyonight&hide_border=true"
+  <img src="https://YOUR-DOMAIN.vercel.app/api/top-langs/?username=rudy0senpai&layout=compact&theme=tokyonight&hide_border=true"
        width="450"
        alt="Most used programming languages"/>
 </p>
@@ -651,11 +652,15 @@ My inner Maomao is ready to investigate the strangest software symptoms.
 </p>
 
 
+
 ## 🐍 The Contribution Dragon
 
 
+
+<h2 align="center">🐍 The Contribution Dragon</h2>
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rudy0senpai/rudy0senpai/output/github-contribution-grid-snake-dark.svg"
+  <img src="https://raw.githubusercontent.com/rudy0senpai/rudy0senpai/output/github-contribution-grid-snake.svg"
        alt="Animated GitHub contribution snake"/>
 </p>
 
@@ -724,7 +729,7 @@ The bug was not the problem.The bug was the friends we made along the way.
 ---
 
 <p align="center">  
-<img src="./assets/MacAni-Linux-logo.png" width="250" alt="MacAni Linux"/>  
+<img src="./assets/macani.png" width="250" alt="MacAni Linux"/>  
 </p>
 
 <p align="center">  
