@@ -676,7 +676,7 @@ My inner Maomao is ready to investigate the strangest software symptoms.
 **Also me, 4 hours later:**
 
 ```
-The bug was not the problem.The bug was the friends we made along the way.
+The bug was not the problem. The bug was the friends we made along the way.
 ```
 
 <details>  
