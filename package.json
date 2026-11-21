@@ -1,0 +1,5 @@
+{
+  "name":"animeverse-profile-theme-engine","version":"1.0.0","private":true,"type":"module",
+  "scripts":{"build":"node scripts/build.mjs","check":"node scripts/build.mjs --check","themes":"node scripts/build.mjs --list-themes"},
+  "engines":{"node":">=20"}
+}

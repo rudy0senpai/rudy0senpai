@@ -1,0 +1,449 @@
+{
+  "username": "rudy0senpai",
+  "name": "Dhruv Pratap Chaubey",
+  "alias": "Rudy0senpai",
+  "origin": "India 🇮🇳",
+  "tagline": "AI & Data Science Engineer • Builder of digital worlds",
+  "avatar": "./assets/MyPPic.png",
+  "github": "https://github.com/rudy0senpai",
+  "linkedin": "https://www.linkedin.com/in/dhruv-pratap-chaubey-09212b380/",
+  "intro": [
+    "Welcome to my Anime Multiverse!",
+    "The Pirate King of Programming!",
+    "Dattebayo! I will master AI!",
+    "10 Billion Percent Brainpower!",
+    "Gotta Code 'Em All!",
+    "My magic is programming!"
+  ],
+  "status": [
+    [
+      "CLASS",
+      "Developer"
+    ],
+    [
+      "LEVEL",
+      "∞"
+    ],
+    [
+      "MANA",
+      "99%"
+    ],
+    [
+      "STATUS",
+      "Training Arc"
+    ]
+  ],
+  "quote": "I don't need a cheat skill. I have curiosity, creativity, and an IDE.",
+  "abilities": [
+    "Python Manipulation",
+    "Data Analysis",
+    "Problem Solving",
+    "World Building",
+    "Creative Thinking"
+  ],
+  "characterClass": "AI & Data Science Engineer",
+  "currentArc": "The Journey to Becoming Legendary",
+  "dream": "Build worlds, create intelligence, change reality.",
+  "skills": [
+    [
+      "🧠 AI & ML",
+      "Machine Learning, Deep Learning, Generative AI"
+    ],
+    [
+      "📊 Data Science",
+      "Python, Pandas, NumPy, SQL"
+    ],
+    [
+      "📈 Analytics",
+      "Excel, Power BI, Tableau"
+    ],
+    [
+      "🌐 Web Development",
+      "HTML, CSS, JavaScript, React"
+    ],
+    [
+      "⚙️ Backend",
+      "Flask, SQLite"
+    ],
+    [
+      "🎮 Game Development",
+      "Unity, C#, Blender"
+    ],
+    [
+      "🐧 Linux Engineering",
+      "Arch-based distributions customization"
+    ],
+    [
+      "🤖 AI Experiments",
+      "LLMs, local inference, AI agents"
+    ]
+  ],
+  "tech": [
+    "React",
+    "GitHub",
+    "Linux",
+    "Bash",
+    "C",
+    "C++",
+    "Python",
+    "Pandas",
+    "Flask",
+    "SQLite",
+    "MySQL",
+    "Qt",
+    "Unity",
+    "Blender",
+    "Figma",
+    "JavaScript",
+    "CSS3",
+    "HTML5"
+  ],
+  "projects": [
+    {
+      "id": "libsphere",
+      "emoji": "📚",
+      "name": "LibSphere — The Apothecary's Library",
+      "description": "A library management system bringing users, departments, and librarians together in one organized ecosystem.",
+      "abilities": "Authentication, book management, departmental organization.",
+      "stack": [
+        "Flask",
+        "SQLite",
+        "JavaScript"
+      ],
+      "url": "https://github.com/rudy0senpai/LibSpace"
+    },
+    {
+      "id": "anilistvault",
+      "emoji": "🎌",
+      "name": "AniListVault — My Anime Collection Arc",
+      "description": "A dedicated anime collection manager for organizing and exploring your anime universe.",
+      "abilities": "Anime metadata, posters, collection management.",
+      "stack": [
+        "Python",
+        "PySide6",
+        "APIs"
+      ],
+      "url": "https://github.com/rudy0senpai/AniListVault"
+    },
+    {
+      "id": "nvidia-analytics",
+      "emoji": "📊",
+      "name": "NVIDIA Sales Analytics — The Millionaire Arc",
+      "description": "Turning raw sales data into powerful business intelligence and actionable insights.",
+      "abilities": "Data cleaning, visualization, KPI analysis.",
+      "stack": [
+        "Power BI",
+        "Excel",
+        "Data Analytics"
+      ],
+      "url": "https://github.com/rudy0senpai?tab=repositories"
+    },
+    {
+      "id": "project-void",
+      "emoji": "🎮",
+      "name": "Project Void — Attack on the Open World",
+      "description": "An anime-inspired chaotic open-world game with procedural environments, exploration, and immersive gameplay.",
+      "abilities": "Procedural terrain, world building, game mechanics.",
+      "stack": [
+        "Unity",
+        "C#",
+        "Blender"
+      ],
+      "url": "https://github.com/rudy0senpai"
+    },
+    {
+      "id": "macani",
+      "emoji": "🐧",
+      "name": "MacAni Linux — The Shadow OS",
+      "description": "A Linux customization project merging sleek desktop aesthetics with anime-inspired visual identity.",
+      "abilities": "Custom branding, desktop theming, system customization.",
+      "stack": [
+        "Linux",
+        "Shell",
+        "System Customization"
+      ],
+      "url": ""
+    }
+  ],
+  "anime": [
+    [
+      "🏴‍☠️",
+      "One Piece — The Dream of the Pirate King",
+      "My ambition has no limits. The journey is more important than the destination.",
+      "I'm gonna become the King of Developers!"
+    ],
+    [
+      "🍥",
+      "Naruto — The Never-Give-Up Ninja Way",
+      "Training, perseverance, overcoming failure, and proving that hard work can surpass talent.",
+      "Believe it! Dattebayo!"
+    ],
+    [
+      "⏳",
+      "Re:Zero — The Debugging Loop",
+      "Every failed build is another timeline. Every error is an opportunity to return stronger.",
+      "git commit → git push → git regret → git fix → Repeat."
+    ],
+    [
+      "🧪",
+      "Dr. Stone — 10 Billion Percent Scientific Genius",
+      "Rebuilding civilization, one experiment and one algorithm at a time.",
+      ""
+    ],
+    [
+      "📓",
+      "Death Note — The Bug Elimination Protocol",
+      "Target: NullPointerException. Cause: missing initialization. Time of death: 11:59 PM, right before the deadline.",
+      ""
+    ],
+    [
+      "🎯",
+      "Hunter × Hunter — The Nen Training Arc",
+      "Nen type: Specialization. Ability: turning random ideas into actual projects. Limitation: insufficient sleep and occasional procrastination.",
+      ""
+    ],
+    [
+      "🔥",
+      "Fairy Tail — The Power of Friendship & Collaboration",
+      "Great projects are built through teamwork, shared knowledge, and mutual support.",
+      ""
+    ],
+    [
+      "🗡️",
+      "Attack on Titan — The War Against Bugs",
+      "The bugs are inside the codebase. Humanity's survival depends on the next deployment.",
+      "Tatakai!"
+    ],
+    [
+      "🥋",
+      "Baki — The Ultimate Coding Workout",
+      "No shortcuts. Just discipline, practice, and progressively harder challenges.",
+      ""
+    ],
+    [
+      "👽",
+      "Dan Da Dan — The Paranormal Debugging Division",
+      "Sometimes the bug is so bizarre that even Stack Overflow cannot explain it. Aliens? Ghosts? Undefined behavior? We investigate.",
+      ""
+    ],
+    [
+      "🌑",
+      "The Eminence in Shadow — Operation: Background Developer",
+      "I don't just write code. I orchestrate entire systems from the shadows.",
+      "I am atomic... in software engineering."
+    ],
+    [
+      "✂️",
+      "Scissor Seven — The Assassin of Broken Code",
+      "Looks like a beginner. Codes like a professional assassin. Debugging contract accepted.",
+      ""
+    ],
+    [
+      "🌸",
+      "TONIKAWA — The Wholesome Side of the Multiverse",
+      "Even the strongest protagonist needs a peaceful slice-of-life episode. Anime, creativity, and happiness: the ultimate balance.",
+      ""
+    ],
+    [
+      "🍀",
+      "Black Clover — No Magic, Just Determination",
+      "I may not have unlimited talent, but I have unlimited determination.",
+      "My grimoire contains Python."
+    ],
+    [
+      "🐉",
+      "Dragon Ball — Power Level: Over 9000!",
+      "Every new project is another training session.",
+      "Super Saiyan Developer → Ultra Instinct Debugging."
+    ]
+  ],
+  "pokemon": [
+    [
+      "25",
+      "Pikachu ⚡",
+      "JavaScript"
+    ],
+    [
+      "65",
+      "Alakazam 🧠",
+      "Artificial Intelligence"
+    ],
+    [
+      "137",
+      "Porygon 💻",
+      "Software Development"
+    ],
+    [
+      "81",
+      "Magnemite ⚙️",
+      "Hardware & Systems"
+    ],
+    [
+      "132",
+      "Ditto 🔄",
+      "Adaptability"
+    ],
+    [
+      "133",
+      "Eevee ✨",
+      "Evolution & Growth"
+    ]
+  ],
+  "isekai": [
+    [
+      "kazumas",
+      "🗡️ Kazuma",
+      "Resourcefulness"
+    ],
+    [
+      "aqua",
+      "💧 Aqua",
+      "Divine Powers"
+    ],
+    [
+      "megumin",
+      "💥 Megumin",
+      "EXPLOSION!"
+    ],
+    [
+      "ainz",
+      "💀 Ainz",
+      "Supreme Intelligence"
+    ],
+    [
+      "albedo",
+      "🖤 Albedo",
+      "Absolute Loyalty"
+    ],
+    [
+      "subaru",
+      "⏳ Subaru",
+      "Return by Death"
+    ],
+    [
+      "emilia",
+      "❄️ Emilia",
+      "Ice Magic"
+    ],
+    [
+      "rem",
+      "💙 Rem",
+      "Combat & Support"
+    ],
+    [
+      "tanya",
+      "✈️ Tanya",
+      "Military Strategy"
+    ]
+  ],
+  "ai": [
+    [
+      "🤖 Claude",
+      "Deep reasoning, creative thinking & complex problem solving"
+    ],
+    [
+      "⚔️ OpenAI Codex",
+      "Code generation, software engineering & debugging"
+    ],
+    [
+      "🐺 Hermes Agent",
+      "Autonomous tasks, agent workflows & tool execution"
+    ],
+    [
+      "🎨 ComfyUI",
+      "AI image generation & visual creativity"
+    ],
+    [
+      "🔮 Bionic",
+      "AI workflow orchestration & MCP integrations"
+    ],
+    [
+      "🦙 Ollama",
+      "Local LLM deployment & private AI inference"
+    ],
+    [
+      "🖥️ OpenCode",
+      "AI-powered coding directly in the terminal"
+    ]
+  ],
+  "apothecary": [
+    [
+      "maomao",
+      "🧪 Maomao",
+      "Root Cause Analysis"
+    ],
+    [
+      "jinshi",
+      "🌸 Jinshi",
+      "Management & Coordination"
+    ],
+    [
+      "gaoshun",
+      "🛡️ Gaoshun",
+      "Monitoring & Protection"
+    ],
+    [
+      "gyokuyou",
+      "🍃 Gyokuyou",
+      "Diplomacy & Social Intelligence"
+    ],
+    [
+      "luomen",
+      "🔬 Luomen",
+      "Medical Knowledge & Mentorship"
+    ]
+  ],
+  "stats": {
+    "general": "https://ghstats.dev/api/card?username=rudy0senpai&theme=radical&orgs=rudy0senpai",
+    "top": "https://gitcard-studio.creativecode.com.co/api/top-repos?username=rudy0senpai&theme=radical&locale=en",
+    "rank": "https://gitcard-studio.creativecode.com.co/api/rank?username=rudy0senpai&theme=radical&locale=en",
+    "languages": "https://gitcard-studio.creativecode.com.co/api/languages?username=rudy0senpai&theme=radical&locale=en",
+    "trophies": "https://gitcard-studio.creativecode.com.co/api/trophies?username=rudy0senpai&theme=radical&locale=en"
+  },
+  "memes": {
+    "image": "https://media.giphy.com/media/11KzOet1ElBDz2/giphy.gif",
+    "stages": [
+      "This should be easy.",
+      "I understand the documentation.",
+      "Why is it not working?",
+      "Who wrote this code?",
+      "Oh... it was me."
+    ]
+  },
+  "soundtrack": [
+    "Developer No Uta",
+    "Another Day of Debugging",
+    "Somewhere between an epic shonen training arc and a Re:Zero mental breakdown."
+  ],
+  "closing": [
+    "夢は逃げない。逃げるのはいつも自分だ。",
+    "Dreams don't run away. It's always the dreamer who does.",
+    "Until our next adventure... See you in the next episode! ✨"
+  ],
+  "isekaiSituations": [
+    [
+      "Megumin casts Explosion",
+      "Classroom destroyed"
+    ],
+    [
+      "Aqua attempts to help",
+      "Situation gets worse"
+    ],
+    [
+      "Ainz starts calculating",
+      "Everyone gets nervous"
+    ],
+    [
+      "Tanya makes a strategic plan",
+      "War is declared"
+    ],
+    [
+      "Subaru tries to explain",
+      "Nobody believes him"
+    ],
+    [
+      "Kazuma encounters trouble",
+      "STEAL!"
+    ]
+  ]
+}

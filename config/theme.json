@@ -1,142 +1,152 @@
-
 {
-  "$schema": "./theme.schema.json",
-  "version": 1,
-
-  "default_theme": "animeverse",
-
+  "activeTheme": "animeverse",
+  "componentThemes": {
+    "hero": "global",
+    "quote": "global",
+    "projectCards": "global",
+    "footer": "global",
+    "skillPanels": "global",
+    "stats": "global",
+    "contribution": "global"
+  },
   "themes": {
     "animeverse": {
-      "quote_color": "#FF79C6",
-      "author_color": "#D6CFFF",
-      "bg_color": "#111126",
-      "accent": "#FF79C6",
-      "secondary": "#9B8CFF",
-      "text": "#EDEBFF",
-      "muted": "#A9A2C7",
-      "border": "#51406D",
-      "surface": "#191832",
+      "label": "AnimeVerse",
       "gradient": [
         "#FF79C6",
         "#9B8CFF",
         "#64D8FF"
-      ]
+      ],
+      "glow": "#FF79C6",
+      "colors": {
+        "background": "#111126",
+        "surface": "#191832",
+        "surfaceAlt": "#211E40",
+        "primary": "#FF79C6",
+        "secondary": "#9B8CFF",
+        "tertiary": "#64D8FF",
+        "text": "#EDEBFF",
+        "muted": "#A9A2C7",
+        "border": "#51406D",
+        "success": "#8CE6B0",
+        "warning": "#FFD580",
+        "danger": "#FF7B91"
+      }
     },
-
     "cyberpunk-tokyo": {
-      "quote_color": "#64D8FF",
-      "author_color": "#FF5C8A",
-      "bg_color": "#101A32",
-      "accent": "#64D8FF",
-      "secondary": "#FF5C8A",
-      "text": "#E5F7FF",
-      "muted": "#9BB6CA",
-      "border": "#294B68",
-      "surface": "#17243D",
+      "label": "Cyberpunk Tokyo",
       "gradient": [
         "#64D8FF",
-        "#8A2BE2",
+        "#B18CFF",
         "#FF5C8A"
-      ]
+      ],
+      "glow": "#64D8FF",
+      "colors": {
+        "background": "#101A32",
+        "surface": "#17243D",
+        "surfaceAlt": "#203451",
+        "primary": "#64D8FF",
+        "secondary": "#B18CFF",
+        "tertiary": "#FF5C8A",
+        "text": "#E5F7FF",
+        "muted": "#9BB6CA",
+        "border": "#294B68",
+        "success": "#8CE6B0",
+        "warning": "#FFD580",
+        "danger": "#FF7B91"
+      }
     },
-
     "phantom-empress": {
-      "quote_color": "#E8B4FF",
-      "author_color": "#BFA0FF",
-      "bg_color": "#20152B",
-      "accent": "#E8B4FF",
-      "secondary": "#BFA0FF",
-      "text": "#F3E9FF",
-      "muted": "#B7A4C7",
-      "border": "#563C67",
-      "surface": "#2B1D39",
+      "label": "Phantom Empress",
       "gradient": [
         "#E8B4FF",
-        "#9745F5",
-        "#5C3D91"
-      ]
+        "#BFA0FF",
+        "#F5C6E8"
+      ],
+      "glow": "#E8B4FF",
+      "colors": {
+        "background": "#20152B",
+        "surface": "#2B1D39",
+        "surfaceAlt": "#39264A",
+        "primary": "#E8B4FF",
+        "secondary": "#BFA0FF",
+        "tertiary": "#F5C6E8",
+        "text": "#F3E9FF",
+        "muted": "#B7A4C7",
+        "border": "#563C67",
+        "success": "#8CE6B0",
+        "warning": "#FFD580",
+        "danger": "#FF7B91"
+      }
     },
-
     "sakura-dreams": {
-      "quote_color": "#A8E6CF",
-      "author_color": "#F8C8DC",
-      "bg_color": "#182A25",
-      "accent": "#A8E6CF",
-      "secondary": "#F8C8DC",
-      "text": "#F0FFF8",
-      "muted": "#B5CDC2",
-      "border": "#41685A",
-      "surface": "#203A32",
+      "label": "Sakura Dreams",
       "gradient": [
         "#A8E6CF",
         "#F8C8DC",
-        "#F4CD7C"
-      ]
+        "#F6D58A"
+      ],
+      "glow": "#A8E6CF",
+      "colors": {
+        "background": "#182A25",
+        "surface": "#203A32",
+        "surfaceAlt": "#2C4B40",
+        "primary": "#A8E6CF",
+        "secondary": "#F8C8DC",
+        "tertiary": "#F6D58A",
+        "text": "#F0FFF8",
+        "muted": "#B5CDC2",
+        "border": "#41685A",
+        "success": "#8CE6B0",
+        "warning": "#FFD580",
+        "danger": "#FF7B91"
+      }
     },
-
     "demon-slayer": {
-      "quote_color": "#FF5555",
-      "author_color": "#FFB36B",
-      "bg_color": "#251414",
-      "accent": "#FF5555",
-      "secondary": "#FFB36B",
-      "text": "#FFF0E8",
-      "muted": "#C7A59A",
-      "border": "#713333",
-      "surface": "#351B1B",
+      "label": "Demon Slayer",
       "gradient": [
         "#FF5555",
-        "#FF8C42",
-        "#FFD166"
-      ]
+        "#FF8A4C",
+        "#F6D58A"
+      ],
+      "glow": "#FF5555",
+      "colors": {
+        "background": "#251414",
+        "surface": "#351B1B",
+        "surfaceAlt": "#482323",
+        "primary": "#FF5555",
+        "secondary": "#FF8A4C",
+        "tertiary": "#F6D58A",
+        "text": "#FFF0E8",
+        "muted": "#C7A59A",
+        "border": "#713333",
+        "success": "#8CE6B0",
+        "warning": "#FFD580",
+        "danger": "#FF7B91"
+      }
     },
-
     "celestial-academy": {
-      "quote_color": "#F4D58D",
-      "author_color": "#8FCBFF",
-      "bg_color": "#0D1825",
-      "accent": "#F4D58D",
-      "secondary": "#8FCBFF",
-      "text": "#EDF5FF",
-      "muted": "#A8B8CD",
-      "border": "#344E6A",
-      "surface": "#142337",
+      "label": "Celestial Academy",
       "gradient": [
         "#F4D58D",
         "#8FCBFF",
-        "#BDA0FF"
-      ]
-    }
-  },
-
-  "components": {
-    "quote": {
-      "theme": "default",
-      "overrides": {}
-    },
-    "typing": {
-      "theme": "default",
-      "overrides": {}
-    },
-    "badges": {
-      "theme": "default",
-      "overrides": {}
-    },
-    "github_stats": {
-      "theme": "default",
-      "overrides": {}
-    },
-    "top_languages": {
-      "theme": "default",
-      "overrides": {}
-    },
-    "trophies": {
-      "theme": "default",
-      "overrides": {}
-    },
-    "footer": {
-      "theme": "default",
-      "overrides": {}
+        "#C6B7FF"
+      ],
+      "glow": "#F4D58D",
+      "colors": {
+        "background": "#0D1825",
+        "surface": "#142337",
+        "surfaceAlt": "#1C3048",
+        "primary": "#F4D58D",
+        "secondary": "#8FCBFF",
+        "tertiary": "#C6B7FF",
+        "text": "#EDF5FF",
+        "muted": "#A8B8CD",
+        "border": "#344E6A",
+        "success": "#8CE6B0",
+        "warning": "#FFD580",
+        "danger": "#FF7B91"
+      }
     }
   }
 }

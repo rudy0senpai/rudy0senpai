@@ -1,0 +1,63 @@
+name: Build AnimeVerse profile
+on:
+  push:
+    branches: [main]
+    paths:
+      - "config/**"
+      - "data/**"
+      - "scripts/**"
+      - "package.json"
+      - ".github/workflows/build-profile.yml"
+  workflow_dispatch:
+  schedule:
+    - cron: "17 3 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: animeverse-profile-build
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Generate README and local SVG assets
+        run: npm run build
+
+      - name: Resolve contribution palette from active theme
+        id: palette
+        shell: bash
+        run: |
+          node --input-type=module <<'NODE'
+          import fs from 'node:fs';
+          const config = JSON.parse(fs.readFileSync('config/theme.json', 'utf8'));
+          const componentTheme = config.componentThemes?.contribution;
+          const themeId = componentTheme && componentTheme !== 'global' ? componentTheme : config.activeTheme;
+          const theme = config.themes[themeId];
+          if (!theme) throw new Error(`Unknown contribution theme: ${themeId}`);
+          const colors = theme.colors;
+          const dots = [colors.background, colors.surfaceAlt, colors.secondary, colors.primary, colors.tertiary]
+            .map(color => '%23' + color.replace('#', '')).join(',');
+          fs.appendFileSync(process.env.GITHUB_OUTPUT, `snake=${colors.primary.replace('#', '')}\ndots=${dots}\n`);
+          NODE
+
+      - name: Generate contribution snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            assets/generated/contribution-snake.gif?color_snake=%23${{ steps.palette.outputs.snake }}&color_dots=${{ steps.palette.outputs.dots }}
+
+      - name: Commit generated files
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore(profile): regenerate AnimeVerse README and assets"
+          file_pattern: README.md assets/generated/**
