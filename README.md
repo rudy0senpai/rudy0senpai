@@ -31,6 +31,15 @@
 ---
 
 
+
+<p align="center">
+
+[![General Stats Card](https://gitcard-studio.creativecode.com.co/api/stats?username=rudy0senpai&theme=radical&align=center&locale=en)](https://gitcard-studio.creativecode.com.co/?user=rudy0senpai&theme=radical)
+
+</p>
+
+
+
 ### 🧬 Character Profile
 
 ```javascript
@@ -60,8 +69,61 @@ const protagonist = {
 
 # 🏴‍☠️ My Grand Line — Tech Stack
 
-<p align="center">  
-<img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css,react,flask,sqlite,mysql,postgresql,git,github,vscode,linux,bash,qt,unity,blender,figma,md&perline=5" alt="My programming arsenal"/>  
+<p align="left">  
+<a href="https://github.com/harish-sethuraman/readme-components">
+ <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">  
+ </a>
+   <a href="https://github.com/harish-sethuraman/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=2d79c7">
+</a>
+  <a href="https://github.com/harish-sethuraman/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c">
+</a>
+  <a href="https://github.com/harish-sethuraman/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=028dd1">
+</a>
+  <a href="https://github.com/harish-sethuraman/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github">
+</a>
+  <a href="https://github.com/harish-sethuraman/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=gnubash">
+</a>
+  <a href="https://github.com/harish-sethuraman/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=c">
+</a>
+  <a href="https://github.com/harish-sethuraman/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=cplusplus">
+</a>
+  <a href="https://github.com/harish-sethuraman/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=python">
+</a>
+  <a href="https://github.com/harish-sethuraman/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=pandas">
+</a>
+  <a href="https://github.com/harish-sethuraman/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=flask">
+</a>
+  <a href="https://github.com/harish-sethuraman/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=sqlite">
+</a>
+  <a href="https://github.com/harish-sethuraman/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mysql">
+</a>
+  <a href="https://github.com/harish-sethuraman/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=linux">
+</a>
+  <a href="https://github.com/harish-sethuraman/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=qt">
+</a>
+  <a href="https://github.com/harish-sethuraman/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=unity">
+</a>
+  <a href="https://github.com/harish-sethuraman/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=blender">
+</a>
+  <a href="https://github.com/harish-sethuraman/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=figma">
+</a>
 </p>
 
 <details>  
@@ -633,33 +695,24 @@ My inner Maomao is ready to investigate the strangest software symptoms.
 
 <h2 align="center">📊 My Power Level — GitHub Stats</h2>
 
-<p align="center">
-  <img src="https://YOUR-DOMAIN.vercel.app/api?username=rudy0senpai&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-       width="450"
-       alt="GitHub statistics"/>
-</p>
-
-<p align="center">
-  <img src="https://YOUR-DOMAIN.vercel.app/api/top-langs/?username=rudy0senpai&layout=compact&theme=tokyonight&hide_border=true"
-       width="450"
-       alt="Most used programming languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=rudy0senpai&theme=tokyonight&hide_border=true"
-       width="450"
-       alt="GitHub contribution streak"/>
-</p>
+| 📊 General Stats | ⭐ Top Repositories Highlight |
+| :---: | :---: |
+|  [![](https://ghstats.dev/api/card?username=rudy0senpai&theme=radical&orgs=rudy0senpai)](https://github.com/rudy0senpai/GitHub-profile-stats) | [![Top Repositories Card](https://gitcard-studio.creativecode.com.co/api/top-repos?username=rudy0senpai&theme=radical&locale=en)](https://gitcard-studio.creativecode.com.co/?user=rudy0senpai&theme=radical) |
 
 
+| 🎖️ Developer Rank | 💻 Most Used Languages |
+| :---: | :---: |
+| [![Developer Rank Card](https://gitcard-studio.creativecode.com.co/api/rank?username=rudy0senpai&theme=radical&locale=en)](https://gitcard-studio.creativecode.com.co/?user=rudy0senpai&theme=radical) | [![Languages Card](https://gitcard-studio.creativecode.com.co/api/languages?username=rudy0senpai&theme=radical&locale=en)](https://gitcard-studio.creativecode.com.co/?user=rudy0senpai&theme=radical) |
+
+
+| 🏆 Milestone Achievements & Trophies |
+| :---: |
+| [![GitHub Trophies Card](https://gitcard-studio.creativecode.com.co/api/trophies?username=rudy0senpai&theme=radical&locale=en)](https://gitcard-studio.creativecode.com.co/?user=rudy0senpai&theme=radical) |
 
 ## 🐍 The Contribution Dragon
 
-
-<h2 align="center">🐍 The Contribution Dragon</h2>
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rudy0senpai/rudy0senpai/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated GitHub contribution snake"/>
+  <img src="https://raw.githubusercontent.com/rudy0senpai/rudy0senpai/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated GitHub contribution snake" theme=radical/>
 </p>
 
 
