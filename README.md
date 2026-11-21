@@ -39,8 +39,8 @@
 </p>
 
 
-
-### 🧬 Character Profile
+<details>
+<summary> 🧬 Character Profile </summary>
 
 ```javascript
 const protagonist = {
@@ -61,13 +61,13 @@ const protagonist = {
     dream: "Build worlds, create intelligence, change reality."
 };
 ```
-
+</details>
 
 > *"I don't need a cheat skill. I have curiosity, creativity, and an IDE."*
 
 ---
-
-# 🏴‍☠️ My Grand Line — Tech Stack
+<details>
+<summary>🏴‍☠️ My Grand Line — Tech Stack</summary>
 
 <p align="left">  
 <a href="https://github.com/harish-sethuraman/readme-components">
@@ -125,6 +125,7 @@ const protagonist = {
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=figma">
 </a>
 </p>
+</details>
 
 <details>  
 <summary>🧪 <b>Dr. Stone's Science Laboratory — Skills in Training</b></summary>
