@@ -1,5 +1,18 @@
 {
-  "name":"animeverse-profile-theme-engine","version":"1.0.0","private":true,"type":"module",
-  "scripts":{"build":"node scripts/build.mjs","check":"node scripts/build.mjs --check","themes":"node scripts/build.mjs --list-themes"},
-  "engines":{"node":">=20"}
+  "name": "animeverse-profile-theme-engine",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "check": "node scripts/build.mjs --check",
+    "themes": "node scripts/build.mjs --list-themes",
+    "theme": "node scripts/theme.mjs",
+    "preview": "node scripts/theme.mjs preview",
+    "random-theme": "node scripts/theme.mjs random",
+    "validate:themes": "node scripts/validate-themes.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
 }

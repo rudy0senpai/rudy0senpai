@@ -12,7 +12,7 @@
 <code>Welcome to my Anime Multiverse!</code> &nbsp; <code>The Pirate King of Programming!</code> &nbsp; <code>Dattebayo! I will master AI!</code> &nbsp; <code>10 Billion Percent Brainpower!</code> &nbsp; <code>Gotta Code 'Em All!</code> &nbsp; <code>My magic is programming!</code>
 </p>
 <p align="center">
-<img src="https://img.shields.io/badge/CLASS-Developer-F4D58D?style=for-the-badge" alt="CLASS Developer"/> <img src="https://img.shields.io/badge/LEVEL-%E2%88%9E-8FCBFF?style=for-the-badge" alt="LEVEL ∞"/> <img src="https://img.shields.io/badge/MANA-99%25-C6B7FF?style=for-the-badge" alt="MANA 99%"/> <img src="https://img.shields.io/badge/STATUS-Training%20Arc-FFD580?style=for-the-badge" alt="STATUS Training Arc"/>
+<img src="https://img.shields.io/badge/CLASS-Developer-FF8C32?style=for-the-badge" alt="CLASS Developer"/> <img src="https://img.shields.io/badge/LEVEL-%E2%88%9E-FFD166?style=for-the-badge" alt="LEVEL ∞"/> <img src="https://img.shields.io/badge/MANA-99%25-E6A36D?style=for-the-badge" alt="MANA 99%"/> <img src="https://img.shields.io/badge/STATUS-Training%20Arc-FFD580?style=for-the-badge" alt="STATUS Training Arc"/>
 </p>
 <p align="center">
 <a href="https://github.com/rudy0senpai">GitHub</a> · <a href="https://www.linkedin.com/in/dhruv-pratap-chaubey-09212b380/">LinkedIn</a>
@@ -364,7 +364,7 @@ The bug was not the problem. The bug was the friends we made along the way.
 ## 🎵 Current arc soundtrack
 
 <p align="center">
-<img src="https://img.shields.io/badge/OPENING-Developer%20No%20Uta-F4D58D?style=for-the-badge" alt="OPENING Developer No Uta"/> <img src="https://img.shields.io/badge/ENDING-Another%20Day%20of%20Debugging-8FCBFF?style=for-the-badge" alt="ENDING Another Day of Debugging"/>
+<img src="https://img.shields.io/badge/OPENING-Developer%20No%20Uta-FF8C32?style=for-the-badge" alt="OPENING Developer No Uta"/> <img src="https://img.shields.io/badge/ENDING-Another%20Day%20of%20Debugging-FFD166?style=for-the-badge" alt="ENDING Another Day of Debugging"/>
 </p>
 **Current mood:** Somewhere between an epic shonen training arc and a Re:Zero mental breakdown.
 
@@ -391,4 +391,4 @@ Collaborations · Open Source · AI · Game Development · Anime Discussions
 
 ---
 
-<sub>Theme: **Celestial Academy** · Generated locally by [AnimeVerse Theme Engine](./docs/THEMING.md).</sub>
+<sub>Theme: **Nine-Tails Chakra** · Generated locally by [AnimeVerse Theme Engine](./docs/THEMING.md).</sub>

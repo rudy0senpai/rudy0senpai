@@ -1,36 +1,72 @@
-# AnimeVerse Theme Engine
+# AnimeVerse Theme Engine v2.0
 
-Zero-dependency Node.js generator for the `rudy0senpai/rudy0senpai` profile README.
+Zero-dependency Node.js theme engine for the `rudy0senpai/rudy0senpai` GitHub profile. It retains the existing README generator, profile data, SVG assets, stats blocks, and contribution-snake workflow.
+
+## Theme collection
+
+There are **26 themes**: the original six plus 20 additions.
+
+`animeverse`, `cyberpunk-tokyo`, `phantom-empress`, `sakura-dreams`, `demon-slayer`, `celestial-academy`, `limitless-infinity`, `king-of-curses`, `eternal-journey`, `sun-god-nika`, `bankai-eclipse`, `nine-tails-chakra`, `violet-elegance`, `control-devil`, `stellar-marionette`, `wings-of-freedom`, `water-breathing`, `future-gadget-lab`, `nebula-noir`, `mecha-frontier`, `pixel-arcade`, `aurora-borealis`, `desert-dusk`, `frostbyte`, `samurai-steel`, `neon-tokyo`.
 
 ## Quick start
 
-- Requires Node.js 20+.
-- `npm run build` generates `README.md` and themed local SVGs.
-- `npm run themes` lists available palettes.
-- `npm run check` verifies that generated output is current.
-- `node scripts/build.mjs --theme=cyberpunk-tokyo` previews another theme by generating that palette.
+Requires Node.js 20+. From the repository root:
 
-## Global theme
+```bash
+npm install
+npm run theme -- list
+npm run theme -- preview limitless-infinity
+npm run theme -- set neon-tokyo
+npm run build
+npm run check
+```
 
-Set `activeTheme` in `config/theme.json` to one of:
-`animeverse`, `cyberpunk-tokyo`, `phantom-empress`, `sakura-dreams`, `demon-slayer`, `celestial-academy`.
+## Interactive preview
 
-Each palette defines background, surfaces, primary/secondary/tertiary accents, text, muted text, border, status colors, a gradient, and glow color.
+Open `preview/index.html` directly in a browser, or serve the repository folder with a static server. The gallery includes search, visual-style filters, palette swatches and random preview. It does not mutate your config; use the activation command shown in the preview status.
 
-## Per-component overrides
+## Random theme
 
-Set values in `componentThemes` to `global` or a theme ID. Supported components: `hero`, `quote`, `projectCards`, `skillPanels`, `stats`, `contribution`, and `footer`.
+```bash
+npm run theme -- random
+npm run build
+```
 
-## Content
+This chooses a random registered theme, writes it as `activeTheme`, and keeps component overrides intact.
 
-Edit `data/profile.json`. It is the structured source of truth for profile content. The generated root `README.md` should not be edited manually; it will be overwritten.
+## Create a custom theme
 
-## GitHub Actions
+```bash
+npm run theme -- custom my-theme "My Theme" #ff77aa #8b7cff #65d9ee #111126
+npm run build
+```
 
-`.github/workflows/build-profile.yml` regenerates the README and local SVGs on source changes, manual dispatch, and a daily schedule. It then generates an animated GIF contribution snake using `Platane/snk`, resolving its colors from the active contribution component theme, and commits generated files.
+This creates a palette using your three accents and background, derives surface and border colors, and activates it. For full control, edit all tokens under `themes.my-theme.colors` in `config/theme.json`.
 
-If workflow commits fail, check **Settings → Actions → General → Workflow permissions** and enable read/write access. The workflow requests `contents: write`.
+## Per-component themes
 
-## Rendering constraints
+Set any supported component to `global` (inherits `activeTheme`) or a concrete theme ID. Components: `hero`, `quote`, `projectCards`, `skillPanels`, `stats`, `contribution`, and `footer`. Example:
 
-GitHub renders profile READMEs as GitHub Flavored Markdown with supported embedded HTML. It does not execute local JavaScript or load a custom stylesheet for README rendering. The engine therefore applies theme tokens during the build and writes them into local SVGs, generated Markdown, and badges. GitHub's page chrome/background cannot be changed by this project. Third-party stats widgets may offer only their own preset themes, so their palettes remain provider-controlled unless the provider supports custom colors.
+```bash
+npm run theme -- component hero limitless-infinity
+npm run theme -- component projectCards neon-tokyo
+npm run theme -- component footer global
+npm run build
+```
+
+## CLI reference
+
+- `npm run theme -- list`
+- `npm run theme -- set <theme-id>`
+- `npm run theme -- random`
+- `npm run theme -- preview [theme-id]`
+- `npm run theme -- component <component> <theme-id|global>`
+- `npm run theme -- custom <id> <label> <primary> <secondary> <tertiary> <background>`
+
+## GitHub README rendering
+
+GitHub profile READMEs do not execute JavaScript or load a custom CSS stylesheet. The engine therefore generates theme tokens into SVG assets and Markdown at build time. GitHub's page chrome/background is outside the scope of a README. Stats-card providers control their own rendering parameters.
+
+## Source of truth and preservation
+
+`data/profile.json` remains the profile content source. `config/theme.json` holds the active theme, 26 palettes and component overrides. `scripts/build.mjs` remains the README/SVG renderer. The README content and project sections are not re-authored by this theme expansion.
