@@ -1,0 +1,142 @@
+
+{
+  "$schema": "./theme.schema.json",
+  "version": 1,
+
+  "default_theme": "animeverse",
+
+  "themes": {
+    "animeverse": {
+      "quote_color": "#FF79C6",
+      "author_color": "#D6CFFF",
+      "bg_color": "#111126",
+      "accent": "#FF79C6",
+      "secondary": "#9B8CFF",
+      "text": "#EDEBFF",
+      "muted": "#A9A2C7",
+      "border": "#51406D",
+      "surface": "#191832",
+      "gradient": [
+        "#FF79C6",
+        "#9B8CFF",
+        "#64D8FF"
+      ]
+    },
+
+    "cyberpunk-tokyo": {
+      "quote_color": "#64D8FF",
+      "author_color": "#FF5C8A",
+      "bg_color": "#101A32",
+      "accent": "#64D8FF",
+      "secondary": "#FF5C8A",
+      "text": "#E5F7FF",
+      "muted": "#9BB6CA",
+      "border": "#294B68",
+      "surface": "#17243D",
+      "gradient": [
+        "#64D8FF",
+        "#8A2BE2",
+        "#FF5C8A"
+      ]
+    },
+
+    "phantom-empress": {
+      "quote_color": "#E8B4FF",
+      "author_color": "#BFA0FF",
+      "bg_color": "#20152B",
+      "accent": "#E8B4FF",
+      "secondary": "#BFA0FF",
+      "text": "#F3E9FF",
+      "muted": "#B7A4C7",
+      "border": "#563C67",
+      "surface": "#2B1D39",
+      "gradient": [
+        "#E8B4FF",
+        "#9745F5",
+        "#5C3D91"
+      ]
+    },
+
+    "sakura-dreams": {
+      "quote_color": "#A8E6CF",
+      "author_color": "#F8C8DC",
+      "bg_color": "#182A25",
+      "accent": "#A8E6CF",
+      "secondary": "#F8C8DC",
+      "text": "#F0FFF8",
+      "muted": "#B5CDC2",
+      "border": "#41685A",
+      "surface": "#203A32",
+      "gradient": [
+        "#A8E6CF",
+        "#F8C8DC",
+        "#F4CD7C"
+      ]
+    },
+
+    "demon-slayer": {
+      "quote_color": "#FF5555",
+      "author_color": "#FFB36B",
+      "bg_color": "#251414",
+      "accent": "#FF5555",
+      "secondary": "#FFB36B",
+      "text": "#FFF0E8",
+      "muted": "#C7A59A",
+      "border": "#713333",
+      "surface": "#351B1B",
+      "gradient": [
+        "#FF5555",
+        "#FF8C42",
+        "#FFD166"
+      ]
+    },
+
+    "celestial-academy": {
+      "quote_color": "#F4D58D",
+      "author_color": "#8FCBFF",
+      "bg_color": "#0D1825",
+      "accent": "#F4D58D",
+      "secondary": "#8FCBFF",
+      "text": "#EDF5FF",
+      "muted": "#A8B8CD",
+      "border": "#344E6A",
+      "surface": "#142337",
+      "gradient": [
+        "#F4D58D",
+        "#8FCBFF",
+        "#BDA0FF"
+      ]
+    }
+  },
+
+  "components": {
+    "quote": {
+      "theme": "default",
+      "overrides": {}
+    },
+    "typing": {
+      "theme": "default",
+      "overrides": {}
+    },
+    "badges": {
+      "theme": "default",
+      "overrides": {}
+    },
+    "github_stats": {
+      "theme": "default",
+      "overrides": {}
+    },
+    "top_languages": {
+      "theme": "default",
+      "overrides": {}
+    },
+    "trophies": {
+      "theme": "default",
+      "overrides": {}
+    },
+    "footer": {
+      "theme": "default",
+      "overrides": {}
+    }
+  }
+}
